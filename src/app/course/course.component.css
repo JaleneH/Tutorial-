@@ -1,0 +1,42 @@
+div.gallery {
+  margin: 30px;
+  border: 1px solid #0a092e;
+  float: left;
+  width: 280px;
+  border-radius: 20px;
+  background-color: #f2f2f8;
+  color: rgb(4, 9, 13);
+}
+h1{
+  font-size:2rem ;
+  font-family: "Muli", serif;
+}
+
+
+
+div.gallery img {
+  width: 100%;
+  height: 200px;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+button{
+  font-size: 1.6rem;
+    width: 15rem;
+ background-color:#fff ;
+    font-family: "Muli", serif;
+    border: none;
+    font-size: 2rem;
+    
+    color: rgb(15, 12, 49);
+    
+    cursor: pointer;
+   
+   
+  
+    border-radius:20px;
+     
+}
